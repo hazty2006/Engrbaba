@@ -102,3 +102,4 @@ static void FindAllElement(int[] numbers, int target)
 //     return smallestNumbers;
 // }
 int a = 10;
+Console.WriteLine(a);
