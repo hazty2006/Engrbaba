@@ -103,3 +103,4 @@ static void FindAllElement(int[] numbers, int target)
 // }
 int a = 10;
 Console.WriteLine(a);
+//i wish to be a software engr
